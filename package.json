@@ -1,12 +1,20 @@
 {
   "name": "nsd_js_api_placeholder",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "1.0.2",
+  "main": "nsd_js_api_placeholder.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "ekazantsev",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exeki/nsd_js_api_placeholder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/exeki/nsd_js_api_placeholder/issues"
+  },
+  "homepage": "https://github.com/exeki/nsd_js_api_placeholder#readme",
+  "description": ""
 }
