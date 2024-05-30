@@ -1,12 +1,10 @@
 {
   "name": "nsd_js_api_placeholder",
-  "version": "1.0.2",
-  "main": "nsd_js_api_placeholder.d.ts",
-  "scripts": {
-    "build": "webpack"
-  },
+  "version": "1.1",
+  "types": "./nsd_js_api_placeholder.d.ts",
+  "scripts": {},
   "keywords": [],
-  "author": "ekazantsev",
+  "author": "Kazantsev Egor Dmitrievich",
   "license": "ISC",
   "repository": {
     "type": "git",
@@ -16,5 +14,5 @@
     "url": "https://github.com/exeki/nsd_js_api_placeholder/issues"
   },
   "homepage": "https://github.com/exeki/nsd_js_api_placeholder#readme",
-  "description": ""
+  "description": "Декларация типов JS API Naumen Service Desk."
 }
